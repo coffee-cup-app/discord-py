@@ -25,3 +25,5 @@ This example starts a Discord bot using [discord.py](https://discordpy.readthedo
 ## 📝 Notes
 
 This is a basic bot with the prefix `!`, more information can be founded at their [offical documentation](https://discordpy.readthedocs.io/en/stable/api.html).
+
+.
